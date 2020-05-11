@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PatriciaZajecIspitMp3</string>
+    <string name="music_icon">Music icon</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="Exit">Exit</string>
+    <string name="d_exit">Exit Player</string>
+    <string name="d_confirmation">Are you sure you want to exit?</string>
+
+</resources>
